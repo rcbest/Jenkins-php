@@ -24,7 +24,7 @@ else
 <body>
     <section class="congratulations">
         <h1>Putin Huilo!</h1>
-        <p>Your AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the JOPA&nbsp;Cloud</p>
+        <p>Your AWS Elastic BeanHren <em>PHP</em> application is now running on your own dedicated environment in the JOPA&nbsp;Cloud</p>
         <p>You are running PHP version <?= phpversion() ?></p>
         <p>This environment is launched with Elastic BeanHer PHP Platform</p>
     </section>
